@@ -11,7 +11,7 @@ routes:
 
 The YunoHost documentation is managed through a [Git repository](https://github.com/YunoHost/doc). You can send pull-requests, and do not forget to report your issues.
 
-Because the online editor doesn't support uploading files, using Git is the prefered way if you need to upload media (e.g. images).
+The old online editor doesn't work anymore, because it didn't support uploading files (e.g. images).
 
 ## Syntax
 
